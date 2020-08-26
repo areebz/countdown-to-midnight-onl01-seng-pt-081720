@@ -4,6 +4,6 @@ def countdown(num)
     num -= 1
     sleep(1)
 end
-"HAPPY NEW YEAR"
+"HAPPY NEW YEAR!"
 
 end 
