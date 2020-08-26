@@ -5,4 +5,4 @@ def countdown(num)
     sleep(1)
 end
 
-end 
+end (countdown(12)(countdown(12)
